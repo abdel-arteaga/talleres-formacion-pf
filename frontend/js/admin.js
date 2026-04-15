@@ -92,7 +92,7 @@ form.addEventListener("submit", e => {
 
   .then(() => {
 
-    alert("✅ Taller creado");
+    alert("Taller creado");
 
     form.reset();
 
